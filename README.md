@@ -26,7 +26,7 @@
 
 ### `$ whoami`
 
-I'm a Computer Science Engineering graduate who builds end to end: clean front ends in HTML, CSS and JavaScript, Python and Django behind them, and MySQL underneath.
+I'm a Computer Science Engineering graduate who builds end to end: clean front ends in HTML, CSS and JavaScript, Python and  behind them, and MySQL underneath.
 
 I care about reliability. I design test cases, automate them with Selenium and pytest, and verify behaviour across browsers with BrowserStack. I also turn raw data into decisions with Python, SQL and Power BI, and I build LLM-powered tools that use tool calling to return structured results.
 
@@ -34,7 +34,6 @@ I care about reliability. I design test cases, automate them with Selenium and p
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL and MySQL">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
