@@ -92,12 +92,6 @@ I care about reliability. I design test cases, automate them with Selenium and p
 - Designed, built and deployed a responsive portfolio with all content managed from a single data file.
 - Live at [shabana-portfolio-ten.vercel.app](https://shabana-portfolio-ten.vercel.app).
 
-### `$ git status`
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39d353/shabanakm56" alt="GitHub contribution graph" width="90%">
-</p>
-
 ### `$ cat certifications.txt`
 
 - **Career Essentials in Generative AI** — Microsoft & LinkedIn Learning (Nov 2026)
