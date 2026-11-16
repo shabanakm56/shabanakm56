@@ -9,14 +9,11 @@
 <img src="terminal.svg" alt="Shabana terminal profile" width="100%">
 
 <p>
-  <a href="https://github.com/shabanakm56">
-    <img src="https://img.shields.io/badge/GitHub-shabanakm56-181717?style=flat-square&logo=github" alt="GitHub">
+  <a href="https://shabana-portfolio-ten.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=3fb950" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/shabana03/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://shabana-portfolio-ten.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-39D353?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=3fb950" alt="LinkedIn">
   </a>
 </p>
 
